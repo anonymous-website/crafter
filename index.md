@@ -6,6 +6,12 @@ layout: default
 
 ## Anonymous Website for Peer Review
 
+<center>
+<video loop muted controls autoplay style="width: 30em">
+<source src="video.mp4"/>
+</video>
+</center>
+
 ### Play Yourself
 
 ```
@@ -23,5 +29,5 @@ TODO: Add anonymous video
 ### Source Code
 
 The complete code for the environment, baseline agents, and figures in the
-paper will be made availble upon publication to ensure an anonymous review
-period. We will also make the baseline scores availble as JSON files.
+paper will be made available upon publication to ensure an anonymous review
+period. We will also make the baseline scores available as JSON files.
