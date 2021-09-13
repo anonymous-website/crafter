@@ -6,3 +6,7 @@ main {
 h1, h2 {
   text-align: center;
 }
+
+img, video {
+  max-width: 100%;
+}

@@ -7,9 +7,7 @@ layout: default
 ## Anonymous Website for Peer Review
 
 <center>
-<video loop muted controls autoplay style="width: 30em">
-<source src="video.mp4"/>
-</video>
+<img src="terrain.png" style="width: 50em">
 </center>
 
 ### Play Yourself
@@ -22,9 +20,18 @@ python3 -m crafter.run_gui      # Start the game
 
 The key mapping will be printed to the terminal.
 
+<video loop muted controls autoplay style="width: 30em">
+<source src="video.mp4"/>
+</video>
+
 ### Emergent Behaviors
 
-TODO: Add anonymous video
+The video shows behaviors of a DreamerV2 agent trained for 50M steps that
+emerge from maximizing the provided reward signal.
+
+<video controls style="width: 30em">
+<source src="emergent.mp4"/>
+</video>
 
 ### Source Code
 
