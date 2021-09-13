@@ -2,15 +2,12 @@
 layout: default
 ---
 
-# Benchmarking Diverse Agent Capabilities
-
-## Anonymous Website for Peer Review
-
-<center>
-<img src="terrain.png" style="width: 50em">
+<center style="margin-bottom: 3em">
+<h1>Benchmarking Diverse Agent Capabilities</h1>
+<h2>Anonymous Website for Peer Review</h2>
 </center>
 
-### Play Yourself
+## Play Yourself
 
 ```
 python3 -m pip install crafter  # Install Crafter
@@ -24,7 +21,7 @@ The key mapping will be printed to the terminal.
 <source src="video.mp4"/>
 </video>
 
-### Emergent Behaviors
+## Emergent Behaviors
 
 The video shows behaviors of a DreamerV2 agent trained for 50M steps that
 emerge from maximizing the provided reward signal.
@@ -33,7 +30,7 @@ emerge from maximizing the provided reward signal.
 <source src="emergent.mp4"/>
 </video>
 
-### Source Code
+## Source Code
 
 The complete code for the environment, baseline agents, and figures in the
 paper will be made available upon publication to ensure an anonymous review

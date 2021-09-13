@@ -1,10 +1,16 @@
-main {
-  max-width: 60em;
-  margin: 1em auto;
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 
-h1, h2 {
-  text-align: center;
+pre, code {
+  font-family: 'Roboto Mono', 'Courier', monospace;
+}
+
+main {
+  max-width: 50em;
+  margin: 1em auto;
 }
 
 img, video {
