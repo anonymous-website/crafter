@@ -1,5 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+body {
+  margin: 0;
+  background: #ddd;
+}
+
+main {
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 2em;
+  background: #fff;
+}
+
+img, video {
+  max-width: 100%;
+}
+
 * {
   font-family: 'Roboto', 'Arial', sans-serif;
 }
@@ -8,15 +24,3 @@ pre, code {
   font-family: 'Roboto Mono', 'Courier', monospace;
 }
 
-main {
-  max-width: 50em;
-  margin: 1em auto;
-}
-
-img, video {
-  max-width: 100%;
-}
-
-h2 {
-  margin-top: 2em;
-}

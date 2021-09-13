@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center style="margin-bottom: 3em">
+<center style="margin-bottom: 5em">
 <h1>Benchmarking Diverse Agent Capabilities</h1>
 <h2>Anonymous Website for Peer Review</h2>
 </center>
@@ -17,22 +17,22 @@ python3 -m crafter.run_gui      # Start the game
 
 The key mapping will be printed to the terminal.
 
-<center>
+<p style="text-align: center">
 <video controls style="width: 30em">
 <source src="video.mp4"/>
 </video>
-</center>
+</p>
 
 ## Emergent Behaviors
 
 The video shows behaviors of a DreamerV2 agent trained for 50M steps that
 emerge from maximizing the provided reward signal.
 
-<center>
+<p style="text-align: center">
 <video controls style="width: 30em">
 <source src="emergent.mp4"/>
 </video>
-</center>
+</p>
 
 ## Source Code
 
