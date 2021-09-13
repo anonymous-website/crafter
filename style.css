@@ -16,3 +16,7 @@ main {
 img, video {
   max-width: 100%;
 }
+
+h2 {
+  margin-top: 2em;
+}
