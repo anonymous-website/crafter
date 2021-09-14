@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-<h1>Benchmarking Diverse Agent Capabilities</h1>
+<h1>Benchmarking the Spectrum of Agent Capabilities</h1>
 <h2>Anonymous Website for Peer Review</h2>
 </header>
 
@@ -34,8 +34,12 @@ emerge from maximizing the provided reward signal.
 </video>
 </p>
 
-## Source Code
+## Supplementary Files
 
-The complete code for the environment, baseline agents, and figures in the
-paper will be made available upon publication to ensure an anonymous review
-period. We will also make the baseline scores available as JSON files.
+The supplementary files are available as ZIP files below for anonymous peer
+review. They will be made available more easily upon publication.
+
+- Environment code: [crafter.zip](crafter.zip)
+- Baseline scores: [scores.zip](scores.zip)
+- Baseline code: [baselines.zip](baselinesip)
+- Plotting code: [analysis.zip](analysis.zip)
