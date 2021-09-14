@@ -39,7 +39,7 @@ emerge from maximizing the provided reward signal.
 The supplementary files are available as ZIP files below for anonymous peer
 review. They will be made available more easily upon publication.
 
-- Environment code: [crafter.zip](crafter.zip)
-- Baseline scores: [scores.zip](scores.zip)
-- Baseline code: [baselines.zip](baselinesip)
-- Plotting code: [analysis.zip](analysis.zip)
+- Environment code: [crafter.zip](crafter.zip) (140KB)
+- Baseline scores: [scores.zip](scores.zip) (4MB)
+- Baseline code: [baselines.zip](baselines.zip) (6MB)
+- Plotting code: [analysis.zip](analysis.zip) (9KB)
