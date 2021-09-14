@@ -3,7 +3,7 @@ layout: default
 ---
 
 <header>
-<h1>Benchmarking the Spectrum of Agent Capabilities</h1>
+<h1>Benchmarking the Spectrum<br>of Agent Capabilities</h1>
 <h2>Anonymous Website for Peer Review</h2>
 </header>
 
